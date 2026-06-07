@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Example Movie 1",
+    "image": "https://images2.imgbox.com/xx/xx/xxxx.jpg",
+    "link": "https://pixeldrain.com/u/xxxxxx",
+    "category": "Action",
+    "rating": "8.5"
+  },
+  {
+    "title": "Example Movie 2",
+    "image": "https://images2.imgbox.com/yy/yy/yyyy.jpg",
+    "link": "https://pixeldrain.com/u/yyyyyy",
+    "category": "Drama",
+    "rating": "7.2"
+  }
+]
